@@ -1,2 +1,2 @@
-[context.staging]
+[context.staging.environment]
   STAGIN_NETLIFY_VARIABLE = "this is a test variable"
