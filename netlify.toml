@@ -1,4 +1,4 @@
+[context.environment]
+  BOOGERS = "SHITBALLS"
 [context.staging.environment]
   STAGIN_NETLIFY_VARIABLE = "this is a test variable"
-[environment]
-  FAKE_ENVIRONMENT_VARIABLE = "THIS IS ANOTHER TEST I REALLY HOPE IT WORKS"
